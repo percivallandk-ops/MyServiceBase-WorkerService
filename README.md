@@ -125,8 +125,8 @@ All ZIP files contain real, working samples used during development.
 
 Detailed documentation is available under `DOCS/`:
 
-- **User Guide** ([User Guid.md](DOCS/EN/User Guide.md))  
-- **Technical Note** ([Technical Note.md](DOCS/EN/Technical note.md))  
+- **User Guide** ([User Guid.md](DOCS/EN/User-Guide.md))  
+- **Technical Note** ([Technical Note.md](DOCS/EN/Technical-note.md))  
   - Differences between .NET Core and .NET Framework  
   - PreShutdown behavior  
   - Experimental results  
